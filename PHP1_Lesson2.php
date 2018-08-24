@@ -82,7 +82,7 @@ function mathOperation($arg1, $arg2, $operation) {
 	}
 }
 echo mathOperation($a, $b, $oOperation); 
-/*------------------------ 6 ------------------------*/ 
+/*------------------------ 6 ------------------------*/   
 echo '<hr />';
 echo 'Task 6:<br />';
 $vall = rand(1,100);
